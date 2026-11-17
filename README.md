@@ -24,7 +24,7 @@
 3. ทำตามขั้นตอนของตัวติดตั้งจนเสร็จ
 4. อยากให้เปิดไฟล์ PDF ด้วย DocDee ทุกครั้ง: เปิด DocDee ▸ การตั้งค่า ▸ ทั่วไป ▸ โปรแกรมเปิด PDF หลัก ▸ **เปิดการตั้งค่าแอปเริ่มต้น** แล้วเลือก DocDee PDF ให้ไฟล์ .pdf
 
-📖 คู่มือแบบมีภาพประกอบ: [วิธีติดตั้ง DocDee PDF ด้วยไฟล์ .msi](https://supakor-studio.github.io/install-docdee.html)
+📖 คู่มือแบบมีภาพประกอบ (Store, .msi, แบบพกพา): [วิธีติดตั้ง DocDee PDF](https://supakor-studio.github.io/install-docdee.html)
 
 ## พบปัญหา / ติดต่อ
 
